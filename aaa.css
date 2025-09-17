@@ -1,0 +1,28 @@
+header{
+    display: flex;
+    flex-direction: row;
+   background-color: red;
+}
+header ul{
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+}
+
+img{
+    width: 200px;
+}
+
+h1{
+    font-size: 48px;
+    color: black;
+    text-align: center;
+}
+
+.contenedor{
+    display: flex;
+    flex-direction:column ;
+    width: 100%;
+    flex-direction: column;
+    background-color: red ;
+}
